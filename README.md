@@ -17,7 +17,6 @@ Buy Me cofee 0xef3f8c43287722778dac2de6d2ae5fb573b93d62
 ### 1️⃣ **Clone Repository**
 ```sh
 git clone https://github.com/tioyudi/NodeGo-Bot
-cd NodeGo-Bot
 ```
 
 ### 2️⃣ **Masukkan Token Akun Anda**
